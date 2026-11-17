@@ -1,1 +1,11 @@
-3.0.1 DEMO
+{
+  "version": "3.0.2",
+  "title": "Goddark e i Dildi - Aggiornamento 3.0.2",
+  "date": "2026-11-17",
+  "download_url": "https://github.com/NIKstudios/DioOscuro/releases",
+  "notes": [
+    "Risolto il cooldown del Lanciacazzi Respingente con animazione fluida a 10s.",
+    "Nuovo sistema di controllo aggiornamenti moderno collegato a GitHub.",
+    "Miglioramenti generali alla fluidità e all'interfaccia."
+  ]
+}
