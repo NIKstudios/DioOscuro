@@ -1,11 +1,15 @@
 {
-  "version": "3.0.3",
+  "version": "3.0.2 DEMO",
   "title": "Goddark e i Dildi - Aggiornamento 3.0.2",
-  "date": "2026-11-17",
-  "download_url": "https://github.com/NIKstudios/DioOscuro/releases",
+  "date": "2026-11-21",
+  "download_url": "https://www.dropbox.com/scl/fi/k6sg15rvtueoqs1s6r1rm/RaccoltaDildi_Update.zip?rlkey=8uwr02b3mv4g45eekitj3bzh8&st=8n0gs81r&dl=1",
   "notes": [
-    "Risolto il cooldown del Lanciacazzi Respingente con animazione fluida a 10s.",
-    "Nuovo sistema di controllo aggiornamenti moderno collegato a GitHub.",
-    "Miglioramenti generali alla fluidità e all'interfaccia."
+	"Livello 1 in 3D nella casa di Goddark: 104 dildi in 3 minuti, i vicini e il finale Goddark Emo.",
+	"Nuovo Livello 4 a Modena con Duomo, Ghirlandina e Piazza Grande.",
+	"Nuova casa di Goddark e menu Potenziamenti (Arsenale) per potenziare ogni arma.",
+	"Il PC di Goddark: YTP a schermo intero, Discord, SCP: SL, Cestino e Galleria.",
+	"Multiplayer: mega ponte a GoddyWood e scelta della mappa con foto.",
+	"13 nuovi trofei, trofei di ferro e nuove icone a coppa.",
+    "RTX: niente più sagome scure e riflessi migliori sulla strada."
   ]
 }
