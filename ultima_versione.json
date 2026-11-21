@@ -1,16 +1,13 @@
 {
-  "version": "3.0.3 DEMO",
-  "title": "Goddark e i Dildi - Aggiornamento 3.0.3",
+  "version": "3.0.4 DEMO",
+  "title": "Goddark e i Dildi - Aggiornamento 3.0.4",
   "date": "2026-11-21",
   "download_url": "https://www.dropbox.com/scl/fi/k6sg15rvtueoqs1s6r1rm/RaccoltaDildi_Update.zip?rlkey=8uwr02b3mv4g45eekitj3bzh8&st=8n0gs81r&dl=1",
   "notes": [
-    "Livello 1 in 3D nella casa di Goddark: 104 dildi in 3 minuti, i vicini e il finale Goddark Emo.",
-    "Nuovo Livello 4 a Modena con Duomo, Ghirlandina e Piazza Grande.",
-    "Nuova casa di Goddark e menu Potenziamenti (Arsenale) per potenziare ogni arma.",
-    "Il PC di Goddark: YTP a schermo intero, Discord, SCP: SL, Cestino e Galleria.",
-    "Multiplayer: mega ponte a GoddyWood e scelta della mappa con foto.",
-    "13 nuovi trofei, trofei di ferro e nuove icone a coppa.",
-    "RTX: niente più sagome scure e riflessi migliori sulla strada.",
-    "Goddark Puzzi."
+    "Casa di Goddark: i vicini hanno dialoghi tutti nuovi, diversi da quelli del Livello 1.",
+    "Ogni vicino ha 3 scenette a caso piene di humor nero (e di insulti per Goddark).",
+    "Mancia dei vicini: bussa e ognuno ti regala da 5 a 20 monete ogni ora reale.",
+    "Se bussi troppo presto il vicino ti manda via e ti dice quanti minuti mancano.",
+    "PC di Goddark: il cursore non si muove più mentre il menu di pausa è aperto."
   ]
 }
