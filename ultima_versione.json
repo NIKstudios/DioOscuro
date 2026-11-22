@@ -1,13 +1,15 @@
 {
-  "version": "3.0.4 DEMO",
-  "title": "Goddark e i Dildi - Aggiornamento 3.0.4",
-  "date": "2026-11-21",
-  "download_url": "https://www.dropbox.com/scl/fi/k6sg15rvtueoqs1s6r1rm/RaccoltaDildi_Update.zip?rlkey=8uwr02b3mv4g45eekitj3bzh8&st=8n0gs81r&dl=1",
-  "notes": [
-    "Casa di Goddark: i vicini hanno dialoghi tutti nuovi, diversi da quelli del Livello 1.",
-    "Ogni vicino ha 3 scenette a caso piene di humor nero (e di insulti per Goddark).",
-    "Mancia dei vicini: bussa e ognuno ti regala da 5 a 20 monete ogni ora reale.",
-    "Se bussi troppo presto il vicino ti manda via e ti dice quanti minuti mancano.",
-    "PC di Goddark: il cursore non si muove più mentre il menu di pausa è aperto."
-  ]
+	"version": "3.0.6 DEMO",
+	"title": "Goddark e i Dildi - Aggiornamento 3.0.6",
+	"date": "2026-11-22",
+	"download_url": "https://www.dropbox.com/scl/fi/qr7ftju722h0ve2a4yfex/Goddark-e-i-Dildi.zip?rlkey=498hjrkhrfw83lrhasvyl12pe&st=kia9f2dn&dl=1",
+	"notes": [
+		"Hai battuto The J? La storia non finisce lì: c'è una nuova zona tutta da scoprire (da terminare, sarà completa tra non molto).",
+		"Non vuoi aspettare? La nuova zona si prova subito dal menu Test.",
+		"Tanti suoni e musiche nuovi... alcuni non sono proprio come te li ricordi.",
+		"Goddark ora parla e dice quello che pensa.",
+		"Nuovo trofeo segreto. Riuscirai a vedere tutto?",
+		"Correzioni: niente più ritorni indietro senza motivo in alcuni punti della casa; le immagini a tutto schermo si vedono per intero.",
+		"Consiglio: alza il volume e spegni la luce."
+	]
 }
