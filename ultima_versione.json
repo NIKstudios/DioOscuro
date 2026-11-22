@@ -1,15 +1,23 @@
 {
-	"version": "3.0.6 DEMO",
-	"title": "Goddark e i Dildi - Aggiornamento 3.0.6",
+	"version": "3.0.7 DEMO",
+	"title": "Goddark e i Dildi - Aggiornamento 3.0.7",
 	"date": "2026-11-22",
-	"download_url": "https://www.dropbox.com/scl/fi/qr7ftju722h0ve2a4yfex/Goddark-e-i-Dildi.zip?rlkey=498hjrkhrfw83lrhasvyl12pe&st=kia9f2dn&dl=1",
+	"download_url": "https://www.dropbox.com/scl/fi/p0xnhj1yk44vbsoikqdqk/Goddark-e-i-Dildi.zip?rlkey=1r9wfx9j5k3soejad29xex9pf&st=k0cdby5h&dl=1",
 	"notes": [
-		"Hai battuto The J? La storia non finisce lì: c'è una nuova zona tutta da scoprire (da terminare, sarà completa tra non molto).",
-		"Non vuoi aspettare? La nuova zona si prova subito dal menu Test.",
-		"Tanti suoni e musiche nuovi... alcuni non sono proprio come te li ricordi.",
-		"Goddark ora parla e dice quello che pensa.",
-		"Nuovo trofeo segreto. Riuscirai a vedere tutto?",
-		"Correzioni: niente più ritorni indietro senza motivo in alcuni punti della casa; le immagini a tutto schermo si vedono per intero.",
-		"Consiglio: alza il volume e spegni la luce."
+		"Nuovo cursore \"Volume passi\" nelle Opzioni (anche dal menu di pausa): abbassa tutti i passi e resta salvato.",
+		"Nuova zona: ora fuori è notte fonda davvero, e qualcosa che si vedeva dalla finestra non c'è più.",
+		"Gli interruttori funzionano: accendi e spegni la luce di ogni stanza, e quando salta la corrente puoi riattaccarla.",
+		"Nuovo trofeo di bronzo segreto (ogni tanto guarda in alto). Tutti i trofei di ferro ora sono d'argento.",
+		"Livello 9: nella fase 2 di The J niente più freccia che indica Pastor Pallina.",
+		"PC di Goddark: su Discord la foto di The J non ha più lo sfondo verde.",
+		"TV del salone: cambiare canale passa subito a un altro video; i video aggiunti mentre giochi arrivano da soli e gli .mp4 si convertono da soli (convertitore dentro il gioco).",
+		"Goddify: le canzoni .mp4 funzionano senza installare niente; aprire la cartella dei tuoi album mette il gioco in pausa.",
+		"Vicini di casa: da 10 a 25 monete, una volta ogni 12 ore reali.",
+		"Nuova zona: all'inizio la porta d'uscita resta bloccata per 1:30, e ogni tanto in casa compare qualcuno che si avvicina piano...",
+		"Multiplayer: il codice stanza funziona anche via internet; se il link non arriva c'è il tasto Richiedi autorizzazioni; nuovo log del multiplayer.",
+		"PC di Goddark: nuova app Goddy Editor per cambiare TV, album di Goddify, sfondo del PC e personaggi del multiplayer senza uscire dal gioco (le cartelle di prima funzionano ancora).",
+		"PC di Goddark: la barra in basso mostra le icone delle app aperte (come su Windows); Goddify: l'album Neon ora ha tutte e 5 le canzoni del concerto.",
+		"Nuova zona: la faccia sulla collina non c'è più (ora c'è una sagoma nera che ti guarda), il timer della porta non si vede più e ogni tanto compare la mamma che ondeggia e parla. Nuovo trofeo di bronzo \"Ti Sta Guardando\".",
+		"Correzioni: la nebbia scura della nuova zona non resta più nell'hub e negli altri livelli; nuovo sfondo per la guida dei cheat code; PC: alzandoti subito durante l'entrata la telecamera non si stacca più da Goddark; la sensibilità del mouse si applica subito anche nei menu di pausa dei livelli."
 	]
 }
